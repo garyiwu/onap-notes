@@ -12,3 +12,5 @@
       * License Agreement
         * Select Feature Group created above
       * Commit / Submit
+    * Create new VSP
+      * 
